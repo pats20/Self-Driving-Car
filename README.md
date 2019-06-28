@@ -12,4 +12,4 @@ Find the accuracy scores of the models used.
 ### Results and Conclusion
 
 #### Voltage Graph
-![alt text](https://github.com/pats20/Smart-Dynamometer/blob/master/Results/voltage%20with%20AD%20and%20RG.JPG)
+![alt text](https://drive.google.com/file/d/1dsikvqrIxPHtMrGrLfwT0agH7pPzOdQL/view?usp=sharing)
