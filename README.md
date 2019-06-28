@@ -12,4 +12,4 @@ Find the accuracy scores of the models used.
 ### Results and Conclusion
 
 #### Voltage Graph
-![alt text](https://drive.google.com/file/d/1dsikvqrIxPHtMrGrLfwT0agH7pPzOdQL/view?usp=sharing)
+[![Self Driving](https://drive.google.com/file/d/1dsikvqrIxPHtMrGrLfwT0agH7pPzOdQL/view?usp=sharing "Self Driving")
